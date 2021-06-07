@@ -2,7 +2,7 @@
  *  UCF COP3330 Summer 2021 Assignment 1 Solution
  *  Copyright 2021 Luis Andres Acosta Mejia
  *
- *
+ *hi
  * What is the principal amount? 1500
 What is the rate? 4.3
 What is the number of years? 6
@@ -24,6 +24,7 @@ public class App {
 
         Scanner in = new Scanner(System.in); //Scanner method declared
 
+        //Variables used.
         int principal;
         double rate;
         int years;
